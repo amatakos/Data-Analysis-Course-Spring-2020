@@ -16,4 +16,6 @@ Used data from February and March 2020 to visualize the spread of the virus in v
 
 ## Third project
 
-### Used SQL to handle kaggle's European Soccer Database, performing basic data cleaning and analysis tasks and visualizations.
+### European Soccer Database
+
+Used SQL to handle kaggle's European Soccer Database, performing basic data cleaning and analysis tasks and visualizations.
